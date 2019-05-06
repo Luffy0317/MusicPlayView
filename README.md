@@ -1,5 +1,6 @@
 # MusicPlayView
 仿音乐播放动画，也类似于频谱
+
 ![Image text](https://raw.githubusercontent.com/Luffy0317/MusicPlayView/master/app/img/playview.gif)
 
 1、使用方法很简单，xml文件中添加该view，再执行ObjectAnimator即可
