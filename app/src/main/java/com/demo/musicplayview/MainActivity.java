@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
-        //此处view已layout
+        //获取高度 此处view已layout
         mHeight = mSvPlay.getHeight();
     }
 
